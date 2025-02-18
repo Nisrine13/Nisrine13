@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nisrine 
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning more about Java (OOP), C, HTML, JavaScript, and CSS
+- 🌱 I’m currently learning more about Java (POO), C, HTML, JavaScript, and CSS
 - 💞️ I’m looking to collaborate on exciting programming projects or web development
 - 📫 How to reach me:  
    - **Email:** fathinisrine18072004@gmail.com  
